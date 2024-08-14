@@ -2,7 +2,7 @@
 
 ![mars](https://github.com/caitlin-hartley/web_scraping_challenge/blob/main/output/mars_weather.webp)
 
-### Part 1: Scrape titles and preview text from Mars news articles
+[### Part 1: Scrape titles and preview text from Mars news articles]
 
 ### Part 2: Scrape and analyze Mars weather data
 
