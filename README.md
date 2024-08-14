@@ -4,6 +4,7 @@
 
 ### Part 2: Scrape and analyze Mars weather data
 
+![mars](https://github.com/caitlin-hartley/web_scraping_challenge/blob/main/output/mars_weather.webp)
 
 ---
 
