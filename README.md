@@ -16,7 +16,7 @@
 - Store the scraping results in Python dictionary with two keys: title and preview
 - Store all the dictionaries in a Python list
 
-![dictionary]([mars_dictionary.png](https://github.com/caitlin-hartley/web_scraping_challenge/blob/main/output/mars_dictionary.png)
+![dictionary](https://github.com/caitlin-hartley/web_scraping_challenge/blob/main/output/mars_dictionary.png)
 
 ## Part 2: Scrape and Analyze Mars Weather Data
 
