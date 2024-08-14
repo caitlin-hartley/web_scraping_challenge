@@ -4,7 +4,7 @@
 
 [Part 1: Scrape titles and preview text from Mars news articles](https://github.com/caitlin-hartley/web_scraping_challenge/blob/main/README.md#part-1-scrape-titles-and-preview-text-from-mars-news)
 
-[Part 2: Scrape and analyze Mars weather data]
+[Part 2: Scrape and analyze Mars weather data](https://github.com/caitlin-hartley/web_scraping_challenge/blob/main/README.md#part-2-scrape-and-analyze-mars-weather-data)
 
 ---
 
@@ -18,6 +18,8 @@
 - Store all the dictionaries in a Python list
 
 ![dictionary](https://github.com/caitlin-hartley/web_scraping_challenge/blob/main/output/mars_dictionary.png)
+
+---
 
 ## Part 2: Scrape and Analyze Mars Weather Data
 
